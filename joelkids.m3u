@@ -1,6 +1,23 @@
 ############   NASIONAL  ############
 
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="NASIONAL", MOJI VOLI
+#EXTVLCOPT:http-referrer=https://www.home.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
 
+#EXTINF:-1 tvg-logo="https://media.tenor.com/nP2dS07qlCoAAAAi/indosiar-logo-indosiar.gif" group-title="NASIONAL", INDOSIAR BOLA
+#EXTVLCOPT:http-referrer=https://www.home.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/127
+
+
+
+#EXTINF:0 group-title="NASIONAL" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif",EURO
+#EXTINF:-1 tvg-logo="https://media.tenor.com/tzhRmUEzCIMAAAAi/rcti30-warnaceritacinta.gif" group-title="NASIONAL",RCTI BOLA
+#EXTVLCOPT:http-referrer=https://www.home.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/7
+#
 #EXTINF:0 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ANTV_LOGO_2016.png?20200916132044", antv(D*)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
